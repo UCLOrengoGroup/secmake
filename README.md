@@ -2,9 +2,11 @@
 
 Tool to create `.sec` files from `.pdb`, `.dssp` or `.wolf` files.
 
-A sec file describes the secondary structure (SS) elements of protein structures. These files are currently required by some of the [cath-tools](http://www.github.com/UCLOrengoGroup/cath-tools).
+## About
 
-We are currently working on clearing the licensing for the code to be added as an open source. In the meantime, we have included some pre-compiled binaries for people to use.
+A `.sec` file describes the secondary structure (SS) elements of protein structures. These files are currently required by some of the tools in the [cath-tools](http://www.github.com/UCLOrengoGroup/cath-tools) project.
+
+We are currently working on clearing the licensing for this code to be included as open source. In the meantime, this project contains some [pre-compiled binaries](binaries/) for people to use.
 
 ## Usage 
 
