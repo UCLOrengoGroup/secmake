@@ -12,7 +12,7 @@ We are currently working on clearing the licensing for this code to be included 
 
 ```
 $ secmake 
-** secmake ** (branch: trunk, r18211, compile time: 12:19:20 Mar 18 2016)
+** secmake ** (branch: trunk, r18310, compile time: 09:12:25 Jun 29 2016)
 
 Generates the sec and/or grath file for a given structure from the appropriate PDB and DSSP/WOLF files
 
